@@ -118,3 +118,9 @@
     @apply bg-background text-foreground;
   }
 }
+
+@theme {
+  --color-mainGreen: #031a09; 
+  --color-secondaryGreen: #294e28; 
+  --color-offGreen: #316c40; 
+}
